@@ -1,1 +1,1 @@
-# llmo-shop-compare-mvp.
+# llmo-shop-compare-mvp.git
